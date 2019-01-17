@@ -1,0 +1,14 @@
+body{
+    background: darkslategrey;
+}
+
+#app{
+    color:white;
+    margin:auto 0;
+    font-family: Arial;
+    max-width:720px;
+}
+
+.link, .link:hover, .link:active, .link:visited{
+    color:#4fc090;
+}
